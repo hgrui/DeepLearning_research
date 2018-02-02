@@ -1,14 +1,14 @@
 # FCN in tensorflow
 I have finished the implementation of Fully Convolutional Networks in the tensorflow framework.
-FCN based on VGG19
+ - FCN based on VGG19
 
 
-##directory
+## directory
  - model/ folder for vgg19 model.
  - logs/ folder for ckpt.
  - datasets/ folder for training datasets and validation datasets.
 
-###References
+### References
  - [Fully Convolutional Networks for Semantic Segmentation](http://arxiv.org/pdf/1605.06211v1.pdf)
  - [FCN by shelhamer](https://github.com/shelhamer/fcn.berkeleyvision.org)
  - [FCN by shekkizh](https://github.com/shekkizh/FCN.tensorflow)

@@ -2,10 +2,10 @@
 the implementation of some deep learning algorithms
 
 
-###Lists
+### Lists
  - SqueezeNet (Finished)
  - Fully Convolutional Networks (Finished)
- - DeepLab (working/ will finish before March 1st)
+ - DeepLab (working / will finish before March 1st)
 
 
 ### Licence 
